@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{2A38EFF5-0D52-467C-B2D6-96C6117AC0E7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyRESTService/Controllers/VwapController.cs">
+    <Files>
+      <File FileName="MyRESTService/Program.cs" Line="15" Column="28" />
+      <File FileName="MyRESTService/Startup.cs" Line="45" Column="7" />
+      <File FileName="MyRESTService/Controllers/PersonController.cs" Line="39" Column="3" />
+      <File FileName="MyRESTService/Controllers/VwapController.cs" Line="23" Column="31" />
+      <File FileName="MyRESTService/VwapCoin.cs" Line="21" Column="10" />
+      <File FileName="MyRESTService/Controllers/ValuesController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyRESTService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
